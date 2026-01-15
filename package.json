@@ -1,7 +1,7 @@
 {
-  "name": "emvqr-parser",
+  "name": "@cocos-capital/emvqr-parser",
   "description": "JavaScript library for parsing EMV QR Codes",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbrahamOsmondE/emvqr-parser.git"
+    "url": "https://github.com/cocos-capital/emvqr-parser.git"
   },
   "licese": "UNLICENSED",
-  "author": "AbrahamOsmondE",
+  "author": "Cocos Capital",
   "devDependencies": {
     "@types/jest": "^29.5.3",
     "@types/jest-when": "^3.5.2",
@@ -27,8 +27,5 @@
   "files": [
     "build/*"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
   "type": "commonjs"
 }
