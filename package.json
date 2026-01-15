@@ -15,10 +15,6 @@
   },
   "licese": "UNLICENSED",
   "author": "AbrahamOsmondE",
-  "dependencies": {
-    "nodemon": "^3.0.1",
-    "ts-node": "^10.9.1"
-  },
   "devDependencies": {
     "@types/jest": "^29.5.3",
     "@types/jest-when": "^3.5.2",
